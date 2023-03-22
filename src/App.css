@@ -1,0 +1,23 @@
+*{
+  margin:1rem 3rem;
+  text-align: center;
+  
+}
+h3{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img{
+  width: 200px;
+}
+.inputRange{
+  width: 1250px;
+}
+input{
+  width: 400px;
+  height: 30px;
+  border-radius: 10px;
+}
+input::placeholder{
+  font-weight: 10px;
+}
+
